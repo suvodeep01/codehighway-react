@@ -12,7 +12,7 @@ import Redirect from "../Components/Redirect.js";
 export default function Home() {
     return (
         <>
-            <Banner />
+            {/* <Banner />
             <Courses />
             <Programming />
             <Career />
@@ -20,7 +20,8 @@ export default function Home() {
             <Teacher />
             <Join />
             <Code_edit />
-            <Redirect />
+            <Redirect /> */}
+            <p>Helow</p>
         </>
     )
 }
