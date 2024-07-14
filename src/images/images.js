@@ -39,6 +39,11 @@ const Images = {
     // login
     Login: require('./login.jpg'),
     Sign: require('./signup.jpg'),
+
+    // course section images
+    html_structure: require('./course/html structure.jpg'),
+    footer_banner1: require('./course/boy-app-academy.png'),
+    footer_banner2: require('./course/girl-app-academy.png')
 }
 
 export default Images;

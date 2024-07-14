@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import Images from "../images/images.js";
 
 export default function Courses(){
@@ -16,14 +17,14 @@ export default function Courses(){
       </div>
       <div className="row">
         <div className="col-lg-3 col-md-4 col-6">
-          <a href="#">
+          <Link to={"/Html_course"}>
             <div className="cbox">
               <div className="c-icon">
                 <img src = {Images.html} alt="" />
               </div>
               <p>Html5</p>
             </div>
-          </a>
+            </Link>
         </div>
         <div className="col-lg-3 col-md-4 col-6">
           <a href="#">
