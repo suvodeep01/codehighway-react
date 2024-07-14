@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/codehighway-react/static/css/main.e4d23c86.css",
-    "main.js": "/codehighway-react/static/js/main.741b7889.js",
+    "main.css": "/codehighway-react/static/css/main.2893672c.css",
+    "main.js": "/codehighway-react/static/js/main.30a0fbf8.js",
     "static/js/453.ff811969.chunk.js": "/codehighway-react/static/js/453.ff811969.chunk.js",
     "static/media/about.jpg": "/codehighway-react/static/media/about.6f11e6d6298d795562a5.jpg",
     "static/media/signup.jpg": "/codehighway-react/static/media/signup.38039b20ec5afeb4d5b0.jpg",
@@ -13,6 +13,7 @@
     "static/media/code_runner.mp4": "/codehighway-react/static/media/code_runner.8e1d359275bd1e3f4e08.mp4",
     "static/media/bg.jpg": "/codehighway-react/static/media/bg.273b28481d1ac803e19f.jpg",
     "static/media/shape-1.png": "/codehighway-react/static/media/shape-1.1d7ff1aab6ab10c446f0.png",
+    "static/media/html structure.jpg": "/codehighway-react/static/media/html structure.61839c4b9069ac75913f.jpg",
     "static/media/4.jpg": "/codehighway-react/static/media/4.7706f256def79c8acf68.jpg",
     "static/media/2.jpg": "/codehighway-react/static/media/2.99a377830336fd943bce.jpg",
     "static/media/letter-c.png": "/codehighway-react/static/media/letter-c.ca323b325816f40cf155.png",
@@ -23,9 +24,11 @@
     "static/media/3.jpg": "/codehighway-react/static/media/3.280306c1eff50f9edff0.jpg",
     "static/media/github.png": "/codehighway-react/static/media/github.553c66159c5672f25df6.png",
     "static/media/r.png": "/codehighway-react/static/media/r.7a75d60a1ca6d1a6c922.png",
+    "static/media/girl-app-academy.png": "/codehighway-react/static/media/girl-app-academy.0ae82838642dca8c7e20.png",
     "static/media/c-.png": "/codehighway-react/static/media/c-.24a8f93854ab092f17a7.png",
     "static/media/swift.png": "/codehighway-react/static/media/swift.afa1f6867fc4ff354548.png",
     "static/media/php.png": "/codehighway-react/static/media/php.c67d24b47808dc6611ed.png",
+    "static/media/boy-app-academy.png": "/codehighway-react/static/media/boy-app-academy.cbd7315ab9569a2b5a30.png",
     "static/media/java.png": "/codehighway-react/static/media/java.f5dd86c3ef6ef3f85acf.png",
     "static/media/html.png": "/codehighway-react/static/media/html.6e930594286d8afe4c79.png",
     "static/media/css-3.png": "/codehighway-react/static/media/css-3.463e319bad8e0edf1ef7.png",
@@ -37,12 +40,12 @@
     "static/media/slick.ttf": "/codehighway-react/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/codehighway-react/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/codehighway-react/index.html",
-    "main.e4d23c86.css.map": "/codehighway-react/static/css/main.e4d23c86.css.map",
-    "main.741b7889.js.map": "/codehighway-react/static/js/main.741b7889.js.map",
+    "main.2893672c.css.map": "/codehighway-react/static/css/main.2893672c.css.map",
+    "main.30a0fbf8.js.map": "/codehighway-react/static/js/main.30a0fbf8.js.map",
     "453.ff811969.chunk.js.map": "/codehighway-react/static/js/453.ff811969.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e4d23c86.css",
-    "static/js/main.741b7889.js"
+    "static/css/main.2893672c.css",
+    "static/js/main.30a0fbf8.js"
   ]
 }
