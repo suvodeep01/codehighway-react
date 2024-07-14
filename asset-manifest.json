@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/codehighway-react/static/css/main.2893672c.css",
-    "main.js": "/codehighway-react/static/js/main.30a0fbf8.js",
+    "main.js": "/codehighway-react/static/js/main.f8995125.js",
     "static/js/453.ff811969.chunk.js": "/codehighway-react/static/js/453.ff811969.chunk.js",
     "static/media/about.jpg": "/codehighway-react/static/media/about.6f11e6d6298d795562a5.jpg",
     "static/media/signup.jpg": "/codehighway-react/static/media/signup.38039b20ec5afeb4d5b0.jpg",
@@ -41,11 +41,11 @@
     "static/media/slick.woff": "/codehighway-react/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/codehighway-react/index.html",
     "main.2893672c.css.map": "/codehighway-react/static/css/main.2893672c.css.map",
-    "main.30a0fbf8.js.map": "/codehighway-react/static/js/main.30a0fbf8.js.map",
+    "main.f8995125.js.map": "/codehighway-react/static/js/main.f8995125.js.map",
     "453.ff811969.chunk.js.map": "/codehighway-react/static/js/453.ff811969.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2893672c.css",
-    "static/js/main.30a0fbf8.js"
+    "static/js/main.f8995125.js"
   ]
 }
